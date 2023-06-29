@@ -1,0 +1,4 @@
+server api.telegram.org
+port 443
+period 6000
+token 
